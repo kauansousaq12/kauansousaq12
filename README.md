@@ -1,16 +1,31 @@
-## Hi there 👋
+ 
+<div align="center"> 
+  <a href="mailto:fkauan130@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/antonysousafrr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<!--
-**kauansousaq12/kauansousaq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <hr/>
+ 
+<h2 align="center">Habilidades</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,nextjs,mysql" /><br>
+</div>
 
-Here are some ideas to get you started:
+<br/>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2> Trabalhando </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<br/>
